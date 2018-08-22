@@ -2,4 +2,4 @@
 ## Descripción del proyecto
 Proyecto de Prueba en clase
 ## Instrucciones
-Documento readme
+Documento readme actualizado
